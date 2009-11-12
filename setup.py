@@ -24,3 +24,4 @@ setup(name=PACKAGE_NAME,
                    'License :: OSI Approved :: GNU General Public License (GPL)',
                    'Operating System :: OS Independent',
                    'Topic :: Software Development :: Libraries :: Python Modules',
+])
